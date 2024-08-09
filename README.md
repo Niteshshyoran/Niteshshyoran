@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Niteshshyoran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm Nitesh Kumar
 
-<!---
-Niteshshyoran/Niteshshyoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring full-stack web developer from Jhunjhunu, Rajasthan. I've been working on honing my skills in front-end and back-end technologies.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** HTML, CSS, JavaScript, MongoDB
+- **Data Structures & Algorithms (DSA)**
+- **Tools:** Git, GitHub, Replit, VS Code
+
+## 📈 GitHub Stats
+![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 🚀 Projects
+- [Project 1](#) - Brief description or link to the project.
+- [Project 2](#) - Brief description or link to the project.
+
+## 📫 How to reach me
+- **Email:** [niteshkumarshyoran9660@gmail.com](mailto:your-email@example.com)
+- **LinkedIn:** [Nitesh shyoran](https://www.linkedin.com/in/niteshshyoran/)
+- **Twitter:** [Nitesh shyoran](https://twitter.com/YourTwitterHandle)
+
+## 🎯 Currently Learning
+- Advanced JavaScript concepts
+- Backend development with Node.js
+- React.js
+
+## 📝 Recent Blog Posts
+- [Post Title 1](#)
+- [Post Title 2](#)
+
+## 🤝 Let's Connect!
+Feel free to connect with me on any of the platforms above or check out my GitHub repositories to see what I'm working on!
+
+---
+
+Thank you for visiting my profile! 😊
