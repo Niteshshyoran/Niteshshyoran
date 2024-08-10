@@ -11,9 +11,6 @@ I'm an aspiring full-stack web developer from Jhunjhunu, Rajasthan. I've been wo
 ## 📈 GitHub Stats
 ![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
-## 🚀 Projects
-- [Project 1](#) - Brief description or link to the project.
-- [Project 2](#) - Brief description or link to the project.
 
 ## 📫 How to reach me
 - **Email:** [niteshkumarshyoran9660@gmail.com](mailto:your-email@example.com)
@@ -24,10 +21,6 @@ I'm an aspiring full-stack web developer from Jhunjhunu, Rajasthan. I've been wo
 - Advanced JavaScript concepts
 - Backend development with Node.js
 - React.js
-
-## 📝 Recent Blog Posts
-- [Post Title 1](#)
-- [Post Title 2](#)
 
 ## 🤝 Let's Connect!
 Feel free to connect with me on any of the platforms above or check out my GitHub repositories to see what I'm working on!
