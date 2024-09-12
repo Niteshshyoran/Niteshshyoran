@@ -9,11 +9,10 @@ I'm an aspiring full-stack web developer from Jhunjhunu, Rajasthan. I've been wo
 - **Tools:** Git, GitHub, Replit, VS Code
 
 ## 📈 GitHub Stats
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
+![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niteshshyoran&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** [niteshkumarshyoran9660@gmail.com](mailto:your-email@example.com)
+- **Email:** [niteshkumarshyoran9660@gmail.com](mailto:niteshkumarshyoran9660@gmail.com)
 - **LinkedIn:** [Nitesh shyoran](https://www.linkedin.com/in/niteshshyoran/)
 - **Twitter:** [Nitesh shyoran](https://twitter.com/YourTwitterHandle)
 
